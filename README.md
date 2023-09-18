@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # DeSadGuy
 # Introduction
 # Profild image
-![Profile Image]([https://example.com/your-image-url.jpg](https://github.com/DeSadGuy/DeSadGuy/blob/main/Profilefoto.jpg))
+![Profile Image](https://github.com/DeSadGuy/DeSadGuy/blob/main/Profilefoto.jpg)
 
 # Contact information 
 # Skills
