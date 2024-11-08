@@ -9,15 +9,3 @@
 
 <img src="typescript_logo.png" width="100" height="100" alt="logo">
 
-```markdown
-```mermaid
-graph TD;
-  Cronus & Rhea --> Zeus;
-  Cronus & Rhea --> Hera;
-  Zeus -->|married| Hera;
-  Zeus --> Ares;
-  Zeus --> Hephaestus;
-  Zeus --> Hebe;
-  Zeus --> Eileithyia; 
-```
-```
