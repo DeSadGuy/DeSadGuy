@@ -9,7 +9,7 @@
 
 <img src="typescript_logo.png" width="100" height="100" alt="logo">
 
-````markdown
+```markdown
 ```mermaid
 graph TD;
   A-->B;
@@ -17,4 +17,4 @@ graph TD;
   B-->D;
   C-->D;
 ```
-````
+```
