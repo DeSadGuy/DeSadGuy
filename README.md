@@ -9,14 +9,12 @@
 
 <img src="typescript_logo.png" width="100" height="100" alt="logo">
 
-
-
-   ```markdown
-   ```mermaid
-   graph TD;
-       A-->B;
-       A-->C;
-       B-->D;
-       C-->D;
-   ```
-   ```
+```markdown
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+```
