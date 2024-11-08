@@ -10,12 +10,13 @@
 <img src="typescript_logo.png" width="100" height="100" alt="logo">
 
 ```markdown
-Testing
 ```mermaid
 graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+  Cronus & Rhea --> Zeus;
+  Cronus & Rhea --> Hera;
+  Zeus -->|married| Hera;
+  Zeus --> Ares;
+  Zeus --> Hephaestus;
+  Zeus --> Hebe;
+  Zeus --> Eileithyia; 
 ```
